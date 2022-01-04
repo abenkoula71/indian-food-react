@@ -5,3 +5,7 @@ export type MenuItem = {
   recipe: string[];
   ing: string[];
 };
+
+export type AppName = {
+  title: string;
+};
