@@ -1,0 +1,112 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Biryani",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi necessitatibus hic mollitia doloremque unde nemo, officiis numquam quaerat dolore. Cumque doloremque dolorum beatae at mollitia fugit ipsam amet quia. Consequuntur officia dolorum, reiciendis quasi quod iure, quos dicta id culpa, consectetur repellat voluptatem? Enim accusantium id ullam maxime aliquid tempora voluptatibus. Ipsum illo exercitationem laboriosam sint aut, reiciendis explicabo dolorum? Earum eaque eum distinctio commodi cum, vel, culpa fugit veritatis architecto amet debitis veniam. Eligendi molestias beatae hic laborum quas provident distinctio fugiat quae tempore dolorem. Corporis tempore reiciendis laborum? Doloremque officiis atque maiores illum. Aliquid provident soluta fugiat voluptate voluptas aliquam vel temporibus voluptatibus voluptatem hic quisquam, iste nostrum vero odio? Aspernatur, consequatur ex earum fugit odio expedita placeat sunt dolores, blanditiis voluptatibus maxime et laudantium molestiae sapiente asperiores similique repudiandae sit voluptatem quo! Dolore, accusamus corporis doloremque eum repudiandae minus nobis, placeat porro, nam nemo repellat numquam ipsa.",
+      "ing": [
+        "Lorem",
+        "ipsum",
+        "Animi",
+        "explicabo",
+        "Temporibus",
+        "quis",
+        "Natus",
+        "deserunt",
+        "Iure",
+        "voluptatibus"
+      ],
+      "recipe": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quibusdam numquam. Aliquid error dolore nobis.",
+        "Sint debitis fuga consectetur aperiam, dolores ea nobis doloribus eius, ab, expedita molestias labore ullam.",
+        "Officia fugit explicabo illum, aliquid similique dolorum nobis deserunt vero placeat sunt, deleniti fugiat necessitatibus.",
+        "Veritatis velit atque nisi reprehenderit? Quibusdam vero doloribus officia ad. Perferendis repellat nam quis temporibus.",
+        "Perferendis, facere expedita maiores consequatur assumenda nam. Deleniti autem est omnis, obcaecati aut provident dolorum.",
+        "Laboriosam officia fugiat quod explicabo maxime, at quas cumque omnis, eum vitae numquam a iste?",
+        "Nesciunt cum tempore natus quas illo molestias sint delectus dicta, facere nam. Doloremque, ut obcaecati?",
+        "Similique voluptates, repellendus cupiditate deserunt corporis atque aperiam perferendis tempore voluptatibus quibusdam non molestiae nemo!"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pasta",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi necessitatibus hic mollitia doloremque unde nemo, officiis numquam quaerat dolore. Cumque doloremque dolorum beatae at mollitia fugit ipsam amet quia. Consequuntur officia dolorum, reiciendis quasi quod iure, quos dicta id culpa, consectetur repellat voluptatem? Enim accusantium id ullam maxime aliquid tempora voluptatibus. Ipsum illo exercitationem laboriosam sint aut, reiciendis explicabo dolorum? Earum eaque eum distinctio commodi cum, vel, culpa fugit veritatis architecto amet debitis veniam. Eligendi molestias beatae hic laborum quas provident distinctio fugiat quae tempore dolorem. Corporis tempore reiciendis laborum? Doloremque officiis atque maiores illum. Aliquid provident soluta fugiat voluptate voluptas aliquam vel temporibus voluptatibus voluptatem hic quisquam, iste nostrum vero odio? Aspernatur, consequatur ex earum fugit odio expedita placeat sunt dolores, blanditiis voluptatibus maxime et laudantium molestiae sapiente asperiores similique repudiandae sit voluptatem quo! Dolore, accusamus corporis doloremque eum repudiandae minus nobis, placeat porro, nam nemo repellat numquam ipsa.",
+      "ing": [
+        "Lorem",
+        "ipsum",
+        "Animi",
+        "explicabo",
+        "Temporibus",
+        "quis",
+        "Natus",
+        "deserunt",
+        "Iure",
+        "voluptatibus"
+      ],
+      "recipe": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quibusdam numquam. Aliquid error dolore nobis.",
+        "Sint debitis fuga consectetur aperiam, dolores ea nobis doloribus eius, ab, expedita molestias labore ullam.",
+        "Officia fugit explicabo illum, aliquid similique dolorum nobis deserunt vero placeat sunt, deleniti fugiat necessitatibus.",
+        "Veritatis velit atque nisi reprehenderit? Quibusdam vero doloribus officia ad. Perferendis repellat nam quis temporibus.",
+        "Perferendis, facere expedita maiores consequatur assumenda nam. Deleniti autem est omnis, obcaecati aut provident dolorum.",
+        "Laboriosam officia fugiat quod explicabo maxime, at quas cumque omnis, eum vitae numquam a iste?",
+        "Nesciunt cum tempore natus quas illo molestias sint delectus dicta, facere nam. Doloremque, ut obcaecati?",
+        "Similique voluptates, repellendus cupiditate deserunt corporis atque aperiam perferendis tempore voluptatibus quibusdam non molestiae nemo!"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Burger",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi necessitatibus hic mollitia doloremque unde nemo, officiis numquam quaerat dolore. Cumque doloremque dolorum beatae at mollitia fugit ipsam amet quia. Consequuntur officia dolorum, reiciendis quasi quod iure, quos dicta id culpa, consectetur repellat voluptatem? Enim accusantium id ullam maxime aliquid tempora voluptatibus. Ipsum illo exercitationem laboriosam sint aut, reiciendis explicabo dolorum? Earum eaque eum distinctio commodi cum, vel, culpa fugit veritatis architecto amet debitis veniam. Eligendi molestias beatae hic laborum quas provident distinctio fugiat quae tempore dolorem. Corporis tempore reiciendis laborum? Doloremque officiis atque maiores illum. Aliquid provident soluta fugiat voluptate voluptas aliquam vel temporibus voluptatibus voluptatem hic quisquam, iste nostrum vero odio? Aspernatur, consequatur ex earum fugit odio expedita placeat sunt dolores, blanditiis voluptatibus maxime et laudantium molestiae sapiente asperiores similique repudiandae sit voluptatem quo! Dolore, accusamus corporis doloremque eum repudiandae minus nobis, placeat porro, nam nemo repellat numquam ipsa.",
+      "ing": [
+        "Lorem",
+        "ipsum",
+        "Animi",
+        "explicabo",
+        "Temporibus",
+        "quis",
+        "Natus",
+        "deserunt",
+        "Iure",
+        "voluptatibus"
+      ],
+      "recipe": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quibusdam numquam. Aliquid error dolore nobis.",
+        "Sint debitis fuga consectetur aperiam, dolores ea nobis doloribus eius, ab, expedita molestias labore ullam.",
+        "Officia fugit explicabo illum, aliquid similique dolorum nobis deserunt vero placeat sunt, deleniti fugiat necessitatibus.",
+        "Veritatis velit atque nisi reprehenderit? Quibusdam vero doloribus officia ad. Perferendis repellat nam quis temporibus.",
+        "Perferendis, facere expedita maiores consequatur assumenda nam. Deleniti autem est omnis, obcaecati aut provident dolorum.",
+        "Laboriosam officia fugiat quod explicabo maxime, at quas cumque omnis, eum vitae numquam a iste?",
+        "Nesciunt cum tempore natus quas illo molestias sint delectus dicta, facere nam. Doloremque, ut obcaecati?",
+        "Similique voluptates, repellendus cupiditate deserunt corporis atque aperiam perferendis tempore voluptatibus quibusdam non molestiae nemo!"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pathan Ka Hotel",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi necessitatibus hic mollitia doloremque unde nemo, officiis numquam quaerat dolore. Cumque doloremque dolorum beatae at mollitia fugit ipsam amet quia. Consequuntur officia dolorum, reiciendis quasi quod iure, quos dicta id culpa, consectetur repellat voluptatem? Enim accusantium id ullam maxime aliquid tempora voluptatibus. Ipsum illo exercitationem laboriosam sint aut, reiciendis explicabo dolorum? Earum eaque eum distinctio commodi cum, vel, culpa fugit veritatis architecto amet debitis veniam. Eligendi molestias beatae hic laborum quas provident distinctio fugiat quae tempore dolorem. Corporis tempore reiciendis laborum? Doloremque officiis atque maiores illum. Aliquid provident soluta fugiat voluptate voluptas aliquam vel temporibus voluptatibus voluptatem hic quisquam, iste nostrum vero odio? Aspernatur, consequatur ex earum fugit odio expedita placeat sunt dolores, blanditiis voluptatibus maxime et laudantium molestiae sapiente asperiores similique repudiandae sit voluptatem quo! Dolore, accusamus corporis doloremque eum repudiandae minus nobis, placeat porro, nam nemo repellat numquam ipsa.",
+      "ing": [
+        "Lorem",
+        "ipsum",
+        "Animi",
+        "explicabo",
+        "Temporibus",
+        "quis",
+        "Natus",
+        "deserunt",
+        "Iure",
+        "voluptatibus"
+      ],
+      "recipe": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quibusdam numquam. Aliquid error dolore nobis.",
+        "Sint debitis fuga consectetur aperiam, dolores ea nobis doloribus eius, ab, expedita molestias labore ullam.",
+        "Officia fugit explicabo illum, aliquid similique dolorum nobis deserunt vero placeat sunt, deleniti fugiat necessitatibus.",
+        "Veritatis velit atque nisi reprehenderit? Quibusdam vero doloribus officia ad. Perferendis repellat nam quis temporibus.",
+        "Perferendis, facere expedita maiores consequatur assumenda nam. Deleniti autem est omnis, obcaecati aut provident dolorum.",
+        "Laboriosam officia fugiat quod explicabo maxime, at quas cumque omnis, eum vitae numquam a iste?",
+        "Nesciunt cum tempore natus quas illo molestias sint delectus dicta, facere nam. Doloremque, ut obcaecati?",
+        "Similique voluptates, repellendus cupiditate deserunt corporis atque aperiam perferendis tempore voluptatibus quibusdam non molestiae nemo!"
+      ]
+    }
+  ]
+}
