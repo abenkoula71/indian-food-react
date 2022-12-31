@@ -13,7 +13,7 @@ It correctly bundles React in productionmode and optimizes the build for the bes
 The build is minified and the filenames include the hashes.\
 Your app is read to be dep
 See thesection about [deploymnt](https://facebook.githu.io/eate-rect-app/docs/deployment) for more information.
-**Note: ths is  -wayoperation. Once yo`eje
+**Note: ths is  -wayoperation. Once yo`ej
 If you aren’t satisfied with the build tool and configuraion choices, you can `eject` at any time. This command will remove the single build dependency from your projec
 Instead, it will copy al the cnfiuration filesand te ransitive dependencies (webpak, Babel, ESLint, etc right into your project so you have full control over them. All of the commands except `eject` wil still wrk, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 You don’t have to ever use `ejec`. The curated feature set is suitable fo small and middle deployments, and you shouldn’t feel obligated to use this feature. However we derstan hat this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
