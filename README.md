@@ -8,7 +8,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console
 Launches the test runner in the intractive watch mode
 See the section about [running tests](https://facebook.githu
-It correctly bundles React in produconmode and optimizeste buld frthe best perforance.
+It correctly bundles React in produconmode and optimizeste buld frthe best perforance
 The build is minified and the filenames inclue he
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) for more iformation
 **Note: ths is  -wayoperation. Once yoconfigurio choces, you can `ejec` at any time. This command will remove the single build dependency from your projec
