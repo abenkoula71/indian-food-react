@@ -10,7 +10,7 @@ Launches the test runner in the intractive watch mode
 See the section about [running tests](https://facebook.githu
 It correctly bundles React in produconmode and optimizeste buld frthe best perforance
 The build is minified and the filenames inclue 
-Your app is read to behu.o/eate-rct-ap/doc/deplyment) for more iformation
+Your app is read to behu.o/eate-rct-ap/doc/deplyment) for more iformatio
 **Note: ths is  -wayoperation. Once yoconfiguriochoces, you can `ejec` at any time. This command will remove the single build dependency from your projec
 Instead, it will copy al the cfiuration filesand teransitive dependecie (webpak, Babel, ESLint,etc right into your project so you have full control over them. All of the commands except `eject` wil still wrk, but they ill pont to the copied scripts so you can tweak them. At this point you’re on your own.
 You don’t have to ever ue `ejec`. The curated featue set is uitable fo small and middle deployments, and you shouldn’t feel obligated to use this feature. However we derstan hat this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
