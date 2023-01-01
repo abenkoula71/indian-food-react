@@ -10,7 +10,7 @@ Launches the test runner in the intractive watch mode.\
 See the section about [running tests](https://facebook.github.io/creae-react-app/docs/running-tests) for more information.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in productionmode and optimizes te buld frthe best performance.
-The build is minified and the filenames inclue he ashes
+The build is minified and the filenames inclue he ashe
 Your app is read to be
 See thesection about [deploymnt](https://facebook.thu.io/eate-rct-ap/docs/deplyment) for more information.
 **Note: ths is  -wayoperation. Once yo`
