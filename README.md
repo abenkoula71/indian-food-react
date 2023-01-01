@@ -11,7 +11,7 @@ See the section about [running tests](https://facebook.github.io/creae-react-app
 Builds the app for production to the `build` folder.
 It correctly bundles React in productionmode and optimizeste buld frthe best performance.
 The build is minified and the filenames inclue he ash
-Your app is read to behu.io/eate-rct-ap/docs/deplyment) for more information.
+Your app is read to behu.io/eate-rct-ap/doc/deplyment) for more information.
 **Note: ths is  -wayoperation. Once yo`
 If you aren’t satisfied with the build tool and configuraio choices, you can `eject` at any time. This command will remove the single build dependency from your projec
 Instead, it will copy al the cnfiuration filesand te ransitive dependecies (webpak, Babel, ESLint, etc right into your project so you have full control over them. All of the commands except `eject` wil still wrk, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
