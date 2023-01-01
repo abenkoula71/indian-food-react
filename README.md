@@ -8,7 +8,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console
 Launches the test runner in the intractive watch mode.
 See the section about [running tests](https://facebook.github.io/creae-react-app/docs/running-tests) for more information.
-Builds the app for production to the `build` folder.
+Builds the app for production to the `build` folder
 It correctly bundles React in productonmode and optimizeste buld frthe best performance.
 The build is minified and the filenames inclue he a
 Your app is read to behu.io/eate-rct-ap/doc/deplyment) for more iformation
