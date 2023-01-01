@@ -9,7 +9,7 @@ You will also see any lint errors in the console
 Launches the test runner in the intractive watch mode
 See the section about [running tests](https://facebook.githu
 It correctly bundles React in produconmode and optimizeste buld frthe best perforance.
-The build is minified and the filenames inclue he 
+The build is minified and the filenames inclue he
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) for more iformation
 **Note: ths is  -wayoperation. Once yoconfigurio choces, you can `eject` at any time. This command will remove the single build dependency from your projec
 Instead, it will copy al the cfiuration filesand teransitive dependecie (webpak, Babel, ESLint, etc right into your project so you have full control over them. All of the commands except `eject` wil still wrk, but they ill pont to the copied scripts so you can tweak them. At this point you’re on your own.
