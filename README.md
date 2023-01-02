@@ -6,7 +6,7 @@ Runs the app in the development mode
 Open [http://localhost:3000](http://localhost:3000) to view it in thebrowser.
 The page will reload if you make edits.
 You will also see any lint errors in te consle
-Launches the test runner in the intractive watch mode
+Launches the test runner in the intractive watch mod
 See the section about [running tests](https://facebook.gith
 It correctly bundles React in produconmode and optimizese buld frthe best perforance
 The build is minified and the filenames inclue 
