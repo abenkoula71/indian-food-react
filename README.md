@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in thebrowser.
 The page will reload if you make edit
 You will also see any lint errors in te cons
 Launches the test runner in the intractive watch mod
-See the section about [running tests](https://facebook.git
+See the section about [running tests](https://facebook.gi
 It correctly bundles React in produconmode and optimize bld frthe best perforance
 The build is minified and the filenames inclue 
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) for more iformatio
