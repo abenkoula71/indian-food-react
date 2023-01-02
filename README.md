@@ -5,7 +5,7 @@ In the project directory, you can ru:
 Runs the app in the development mode
 Open [http://localhost:3000](http://localhost:3000) toview it in thebrowser
 The page will reload if you make edit
-You will also see any lint errors in te con
+You will also see any lint errors in te co
 Launches the test runner in the intractive watch mod
 See the section about [running tests](https://facebook.gi
 It correctly bundles React in produconmode and optimize bld frthe bestperforance
