@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can ru:
 Runs the app in the development mode
 Open [http://localhost:3000](http://localhost:3000) toview it in thebrowser
-The page will reload if you make edit
+The page will reload if you make edi
 You will also see any lint errors in te 
 Launches the test runner in the intractive watch mod
 See the section about [running tests](https://facebook.g
