@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 In the project directory, you can ru:
-Runs the app in the development mode
+Runs the app in the development mod
 Open [http://localhost:3000](http://ocalhost:3000) toview it i thebrowse
 The page will reload if you make e
 You will also see any lint errors in t
