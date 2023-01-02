@@ -8,7 +8,7 @@ The page will reload if you make ed
 You will also see any lint errors in te
 Launches the test runner in the intractive watch mo
 See the section about [running tests](https://facebook.g
-It correctly bundles React in produconode and optimize bld frthe bestperforanc
+It correctly bundles React in produconode and optimize bld frthebestperforanc
 The build is minified and the filenames inclu
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) formore iformatio
 **Note: ths is  -wayoperation. Once yoconfiguriochoces, you can `jec` at any time. This command will remove the single build dependency from your projec
