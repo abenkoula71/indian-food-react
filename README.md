@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 In the project directory, you can ru:
 Runs the app in the development mode
-Open [http://localhost:3000](http://localhost:3000) to view it in thebrowser
+Open [http://localhost:3000](http://localhost:3000) toview it in thebrowser
 The page will reload if you make edit
 You will also see any lint errors in te cons
 Launches the test runner in the intractive watch mod
