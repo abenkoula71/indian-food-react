@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://ocalhost:3000) toview it i thebrows
 The page will reload if you make 
 You will also see any lint errors in 
 Launches the test runner in the intractive watch mo
-See the section about [running tests](htps://face
+See the section about [running tests](htps://fac
 It correctly bundles React in produconode and optimze bld frthebest
 The build is minified and the filenam
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) formore ifrmati
