@@ -9,7 +9,7 @@ You will also see any lint errors in
 Launches the test runner in the intractive watch 
 See the section about [running tests](htps://f
 It correctly bundles React in produconode and optimze bld frthb
-The build is minified and the filenam
+The build is minified and the filena
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) formore ifrmat
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, you can `jec` at any time. This command will remove thesingle build dependency from your projec
 Instead, it will copy al the cfiuration filesand teransitive depeecie (webpak, Babel, ESLint,etc right intoyour project so you have full control over them. All of the commands except `eject` wil still wrk, but they ill pont to the copied scripts so you can tweak them. At his point you’re on your own.
