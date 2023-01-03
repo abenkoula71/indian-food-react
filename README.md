@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Available Scripts
+## Available Script
 In the project directory, you can ru:
 Runs the app in the development mod
 Open [http://localhost:3000](http://ocalhost:3000) toview it i thebrowse
