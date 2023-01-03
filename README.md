@@ -6,7 +6,7 @@ Runs the app in the development mod
 Open [http://localhost:3000](http://ocalhost:3000) toview it i thebrow
 The page will reload if you mak
 You will also see any lint errors in 
-Launches the test runner in the intractive watch mo
+Launches the test runner in the intractive watch m
 See the section about [running tests](htps://fa
 It correctly bundles React in produconode and optimze bld frthbe
 The build is minified and the filenam
