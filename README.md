@@ -8,7 +8,7 @@ The page will reload if you mak
 You will also see any lint errors in 
 Launches the test runner in the intractive watch m
 See the section about [running tests](htps://fa
-It correctly bundles React in produconode and optimze bld frthbe
+It correctly bundles React in produconode and optimze bld frthb
 The build is minified and the filenam
 Your app is read to behu.o/eate-rct-ap/doc/deplyment) formore ifrmat
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, you can `jec` at any time. This command will remove thesingle build dependency from your projec
