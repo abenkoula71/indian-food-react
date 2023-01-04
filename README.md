@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can ru
 Runs the app in the development mo
 Open [http://localhost:3000](http://ocalhost:3000) toview it i thebro
-The page will reload if you m
+The page will reload if you 
 You will also see any lint errors
 Launches the test runner in the intractive wa
 See the section about [running
