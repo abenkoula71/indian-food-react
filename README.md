@@ -6,7 +6,7 @@ Runs the app in the development mo
 Open [http://localhost:3000](http://ocalhost:3000) toview it i thebro
 The page will reload if you 
 You will also see any lint error
-Launches the test runner in the intractive 
+Launches the test runner in the intractive
 See the section about [run
 It correctly bundles React in produconode and optie bd frth
 The build is minified 
