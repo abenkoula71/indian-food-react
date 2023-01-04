@@ -8,7 +8,7 @@ The page will reload if you
 You will also see any lint error
 Launches the test runner in the intractive
 See the section about [r
-It correctly bundles React in produconode and optie b 
+It correctly bundles React in produconode and optie b
 The build is minifie
 Your app is read to behu.o/eate-rc-ap/doc/deplyment) formoe irmat
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at any time. his command will remove thesingle build dependency from your projec
