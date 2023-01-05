@@ -8,7 +8,7 @@ The page will reload if you
 You will also see any lint erro
 Launches the test runner in the int
 See the section ab
-It correctly bundles React in produconode
+It correctly bundles React in produconod
 The build is mi
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irma
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
