@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-## Available Scri
+## Available Scr
 In the project directory, you can r
 Runs the app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i hebr
