@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://ocalhost:3000) toview it i thebr
 The page will reload if you
 You will also see any lint erro
 Launches the test runner in the int
-See the section abo
+See the section ab
 It correctly bundles React in produconode
 The build is mi
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irma
