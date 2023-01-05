@@ -8,7 +8,7 @@ The page will reload if you
 You will also see any lint error
 Launches the test runner in the intra
 See the section about 
-It correctly bundles React in produconode and opt
+It correctly bundles React in produconode and op
 The build is min
 Your app is read to behu.o/eate-rc-ap/doc/deplyment) formoe irma
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
