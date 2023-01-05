@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scr
 In the project directory, you can 
 Runs the app in the development m
-Open [http://localhost:3000](http://ocalhost:3000) toview it i heb
+Open [http://localhost:3000](http://ocalhost:3000) toview it i he
 The page will reload if yo
 You will also see any lint erro
 Launches the test runner in the in
