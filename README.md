@@ -9,7 +9,7 @@ You will also see any lint error
 Launches the test runner in the intractiv
 See the section about [r
 It correctly bundles React in produconode and optie
-The build is minifie
+The build is minifi
 Your app is read to behu.o/eate-rc-ap/doc/deplyment) formoe irma
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at any time. his command will remove thesingle build dependency from your projec
 Instead, it will copy al the cfiuration fileand teransitive depeecie (webpak, Babel, ESLint,etc right intoyour project so you have full control over them. All of the commands except `eject` wil still wrk, but they ill pont to the copied scripts so you can tweak them. At his point you’re on your own.
