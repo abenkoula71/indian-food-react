@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app
 ## Available Scr
-In the project directory, you can r
+In the project directory, you can 
 Runs the app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i hebr
 The page will reload if you
