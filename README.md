@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 ## Available Scr
 In the project directory, you can 
-Runs the app in the development m
+Runsthe app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 The page will reload if yo
 You will also see any lint erro
