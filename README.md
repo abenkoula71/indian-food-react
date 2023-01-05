@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://ocalhost:3000) toview it i thebro
 The page will reload if you
 You will also see any lint error
 Launches the test runner in the intracti
-See the section about [r
+See the section about [
 It correctly bundles React in produconode and opti
 The build is minif
 Your app is read to behu.o/eate-rc-ap/doc/deplyment) formoe irma
