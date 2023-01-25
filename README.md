@@ -5,7 +5,7 @@ In the project directory, you can
 Runsthe app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 The page will reload if yo
-You will also see any lint erro
+You will also see any lint err
 Launches the test runner in the 
 It correctly bundls React in produconod
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irm
