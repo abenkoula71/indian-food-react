@@ -6,7 +6,7 @@ Runsthe app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 The page will reload if
 You will also see any lin
-Launches the test runner in
+Launches the test runner i
 It correctly bundls React in produconod
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irm
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
