@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 The page will reload if yo
 You will also see any lint erro
 Launches the test runner in the in
-See the sec
+See the se
 It correctly bundls React in produconod
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irm
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
