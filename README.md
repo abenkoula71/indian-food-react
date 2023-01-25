@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can 
 Runsthe app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
-The page will reload 
+The page will reload
 You will also see any
 Launches the test runner
 It correctly bundls React in producono
