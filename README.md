@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 The page will reload 
 You will also see any lin
 Launches the test runner 
-It correctly bundls React in produconod
+It correctly bundls React in producono
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irm
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
 Instead, it will copy al the cfiurationfileand teransitive depeecie (webpak, Babel, ESLint,et right intoyour project so you have full control over them. All of the commands except `eject` wil still wrk, but they ill pont to the copied scripts so you can tweak them. At his point you’re on your own.
