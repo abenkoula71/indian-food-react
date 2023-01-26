@@ -5,7 +5,7 @@ In the project directory, you can
 Runsthe app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 The page will reload
-You will also se
+You will also s
 Launches the test run
 It correctly bundls React in producono
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme irm
