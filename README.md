@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can 
 Runsthe app in the development m
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
-The page will relo
+The page will rel
 It correctly bundls React in producono
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme i
 **Note: ths is  -wayoperation. Once yoconfiguriochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
