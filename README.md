@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-This project as bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
+This projec as bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 ## Avai
 In the project directory, you can 
 Runsthe app in the development m
