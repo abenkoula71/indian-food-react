@@ -2,7 +2,7 @@
 This projec as bootstrapped with 
 [Create React App](https://github.com/facebook/create-react-ap
 In the project directory, you can 
-Runsthe app in the development 
+Runsthe app in the development
 Open [http://localhost:3000](http://ocalhost:3000) toview it i h
 It correctly bundls React in producono
 Your app is read to behu.o/ate-rc-ap/docdeplyment) forme i
