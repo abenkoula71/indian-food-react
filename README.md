@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 This projec as bootstrapped with
-[Create React App](https//github.com/facebook/create-react-ap
+[Create React App](https//github.com/facebookcreate-react-ap
 In the projec
 Runsthe app in the developmen
 Open [http://localhot:3000](http://ocalhost:3000) toview it i h
