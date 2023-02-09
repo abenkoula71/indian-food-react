@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-This projec as bootstrapped with 
+This projec as bootstrapped with
 [Create React App](https://github.com/facebook/create-react-ap
 In the projec
 Runsthe app in the development
