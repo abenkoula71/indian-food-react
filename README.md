@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 This projec as bootstrapped with
 [Create React App](https//github.com/faceokreate-react-ap
-In the projec
+In the proje
 Runsthe app in the developmen
 Open [http://localhot:3000](http://ocalhost:3000) toview it i h
 It correctly bundls Reactin producon
