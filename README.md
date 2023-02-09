@@ -10,4 +10,4 @@ Your app is read to behu.o/ate-rc-ap/docdeplyment) forme i
 Istead, it will copy al the cfiurationfileand teransitive depeecie (webpak, Babel,ESL
 int,et right intoyour project so you have 
 full control over them. All of the commands excet `ejet` wil still wrk, but they ill 
-pont to the copied scrips so yu can tweak them. At hs point you’re
+pont to the copied scrips so yu can tweak them. At hs point you’r
