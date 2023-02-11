@@ -1,6 +1,6 @@
 # Getting Started with Create React Ap
 This projec as bootstrapped with
-[Create React App](https//github.com/faceokreate-react-ap
+[Create React App](https//github.com/faceokreate-react-a
 In the proj
 Runsthe app in the developme
 Open [http://localhot:3000](http://ocalhost:3000) toview it i 
