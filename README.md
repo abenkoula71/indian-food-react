@@ -10,4 +10,4 @@ Your app is read to behu.oate-rc-a/docdeplyment) forme
 Istead, it will copy al the cfiuratinfilean teransitivedepeecie (webpak, Babel,ESL
 int,et right intoyour project so ou hav
 full control over them. All f the commads excet `eet` wil still wrk, but they ill 
-pont to the copied scrps so y cn twak the. At s po
+pont to the copied scrps so y cntwak the. At s po
