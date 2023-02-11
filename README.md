@@ -9,5 +9,5 @@ Your app is read to beu.oae-rc-a/docdeplyment) forme
 **Note: ths is  -wayopeatin. One yconfguiochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
 Istead, it will copy al the cfiuatinfilean teransitivedepeecie (webpak, Babel,ESL
 int,et right intyour project so ou hav
-full control over them. All f the commads excet `eet` wil still wrk, but they ill 
+full control over them. All f the cads excet `eet` wil still wrk, but they ill 
 pont to the copied scrps so y cntwak the. At s po
