@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React Ap
 This projec as bootstrapped with
 [Create React App](https//github.com/faceokreate-react-ap
 In the proj
