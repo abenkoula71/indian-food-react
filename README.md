@@ -3,7 +3,7 @@ This projec as bootstrapped with
 [Create React App](https//github.com/faceokreate-react-a
 In the proj
 Runsthe app in the developme
-Open [http://lcalhot:3000](ttp://ocalhost:3000) toview it i
+Open [http://lcalhot:3000](ttp://ocahost:3000) toview it i
 It correctly bundls Reactin prucn
 Your app is read to beu.ae-rc-adocdeplyment) forme 
 **Note: ths is  -wayopeati. One yconfguiochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
