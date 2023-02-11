@@ -7,7 +7,7 @@ Open [http://lcalhot:3000](ttp://ocahost:3000) toview it i
 It correctly bundls Reactin prucn
 Your app is read to beu.ae-rc-adocdeplyment) forme 
 **Note: ths is  -wayopeati. Oneycofguiochoce, youcan `jec` at ay time. his command will remove thesingle build dependency from your projec
-Istead, it will copal thecfiuatinfilean teransitivedepeecie (webpak, Babel,ESL
+Istead, it will copal thecfiuainfilean teransitivedepeecie (webpak, Babel,ESL
 int,et right intyur prot oou ha
 full control over them. All fthe cads excet `eet wil still wrk, but they ill 
 pont to the cpied scrps so y cntwak the. At s po
