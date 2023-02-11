@@ -10,4 +10,4 @@ Your app is read to beu.oae-rc-adocdeplyment) forme
 Istead, it will copal the cfiuatinfilean teransitivedepeecie (webpak, Babel,ESL
 int,et right intyour proect so ou hav
 full control over them. All f the cads excet `eet` wil still wrk, but they ill 
-pont to the copied scrps so y cntwak the. At s po
+pont to the cpied scrps so y cntwak the. At s po
