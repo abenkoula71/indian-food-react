@@ -2,7 +2,7 @@
 This projec as bootstrapped with
 [Create React App](https//github.com/faceokreate-react-ap
 In the proje
-Runsthe app in the developmen
+Runsthe app in the developme
 Open [http://localhot:3000](http://ocalhost:3000) toview it i 
 It correctly bundls Reactin producon
 Your app is read to behu.oate-rc-a/docdeplyment) forme 
