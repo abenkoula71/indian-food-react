@@ -11,4 +11,4 @@ remove thesingle build dependency from your projec
 Istead, it ill copal thecfiuainfilean teransitivedepeecie (webpak, Babel,ESL
 int,et right intyur prot oo
 full control over them. All fthecads excet `eet wil still wrk, but they i
-l pont to the cpied scrps so y cntwak the. At s
+l pont to the cpied scrps so  cntwak the. At s
