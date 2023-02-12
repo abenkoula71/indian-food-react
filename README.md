@@ -1,14 +1,1 @@
-# Getting Started with Create React Ap
-This projec as bootstrapped with
-[Create React App](https//github.com/faceokreate-react-a
-In the proj
-Runsthe app in the developm
-Open [http://lcalhot:3000](ttp://ocahost:3000) toview 
-It correctly bundls Reactin pruc
-Your app is read to bu.ae-c-adodeplyment) forme 
-**Note: ths is  -wayopati Oneycofguiohoce, youca j at ay ime. his command will
-remove thesingle build dependency fromyour proje
-Istead, it ill copal thecfiuinilean teransitivedepecie (webpak, Babel,ESL
-int,et right intyur pro
-full control over them. All fthecads excet e wil still wrk, but they i
-l pont to the cpied scrps so  cntwak the. At
+
