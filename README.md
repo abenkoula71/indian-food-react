@@ -6,7 +6,7 @@ Runsthe app in the developm
 Open [http://lcalhot:3000](ttp://ocahost:3000) toview 
 It correctly bundls Reactin pruc
 Your app is read to bu.ae-c-adodeplyment) forme 
-**Note: ths is  -wayopati Oneycofguiohoce, youca `jec` at ay time. his command will
+**Note: ths is  -wayopati Oneycofguiohoce, youca `jec` at ay ime. his command will
 remove thesingle build dependency fromyour proje
 Istead, it ill copal thecfiuinilean teransitivedepecie (webpak, Babel,ESL
 int,et right intyur pro
