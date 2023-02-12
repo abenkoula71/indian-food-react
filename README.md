@@ -10,5 +10,5 @@ Your app is read to bu.ae-c-adodeplyment) forme
 remove thesingle build dependency from your projec
 Istead, it ill copal thecfiuainfilean teransitivedepeecie (webpak, Babel,ESL
 int,et right intyur prot o
-full control over them. All fthecads excet `e wil still wrk, but they i
+full control over them. All fthecads excet e wil still wrk, but they i
 l pont to the cpied scrps so  cntwak the. At 
