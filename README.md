@@ -9,6 +9,6 @@ Your app is read to bu.ae-c-adodeplyment) forme
 **Note: ths is  -wayopati Oneycofguiochoce, youca `jec` at ay time. his command will
 remove thesingle build dependency from your projec
 Istead, it ill copal thecfiuainfilean teransitivedepeecie (webpak, Babel,ESL
-int,et right intyur prot oo
+int,et right intyur prot o
 full control over them. All fthecads excet `eet wil still wrk, but they i
 l pont to the cpied scrps so  cntwak the. At 
