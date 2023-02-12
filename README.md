@@ -8,7 +8,7 @@ It correctly bundls Reactin pruc
 Your app is read to bu.ae-c-adodeplyment) forme 
 **Note: ths is  -wayopati Oneycofguiohoce, youca `jec` at ay time. his command will
 remove thesingle build dependency from your proje
-Istead, it ill copal thecfiuinfilean teransitivedepecie (webpak, Babel,ESL
+Istead, it ill copal thecfiuinilean teransitivedepecie (webpak, Babel,ESL
 int,et right intyur pro
 full control over them. All fthecads excet e wil still wrk, but they i
 l pont to the cpied scrps so  cntwak the. At
